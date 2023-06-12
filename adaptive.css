@@ -1,0 +1,323 @@
+@media all and (max-width: 1254px) {
+  .footer_list {
+    width: 35%;
+  }
+  .portfolio_item {
+    width: 30%;
+  }
+  .portfolio_item > img {
+    width: 100%;
+  }
+}
+@media all and (max-width: 1443px) {
+  .header__btn {
+    width: 50%;
+  }
+}
+
+@media all and (max-width: 1300px) {
+  .footer_item {
+  }
+}
+@media all and (max-width: 1215px) {
+  .servises_title_main {
+    font-size: 40px;
+  }
+  .portfolio__title {
+    font-size: 40px;
+  }
+}
+@media all and (max-width: 1110px) {
+  .footer_list {
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 1190px) {
+  .header__img {
+    width: 100%;
+    height: 80%;
+    margin-top: 100px;
+  }
+}
+@media all and (max-width: 1050px) {
+  .navbar__list {
+    width: 40%;
+  }
+}
+@media all and (max-width: 1000px) {
+  .header__title_left {
+    font-size: 60px;
+  }
+}
+@media all and (max-width: 950px) {
+  .navbar__logo {
+    width: 15%;
+  }
+  .navbar__list {
+    width: 40%;
+  }
+}
+@media all and (max-width: 950px) {
+  .header__block_left {
+    width: 80%;
+  }
+  header {
+    flex-direction: column;
+  }
+  .header__btn {
+    width: 30%;
+  }
+  .header__block_right {
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+  }
+  #vector1 {
+    top: 250px;
+    left: -80px;
+  }
+  #vector_2 {
+  }
+}
+@media all and (max-width: 900px) {
+  #vector1 {
+    top: 250px;
+    left: -80px;
+  }
+  .contact_btn {
+    height: 40px;
+  }
+  .contact_title {
+    font-size: 50px;
+  }
+  .footer_item {
+  }
+}
+@media all and (max-width: 870px) {
+  .servises_item {
+    width: 40%;
+  }
+  .contact_btn > a {
+    font-size: 15px;
+  }
+  footer_logo {
+    width: 139px;
+    height: 43px;
+  }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .footer_list {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer_item {
+    margin-bottom: 10px;
+  }
+  footer_logo {
+    width: 139px;
+    height: 43px;
+  }
+}
+@media all and (max-width: 800px) {
+  .servises_title_main {
+    width: 70%;
+  }
+  .navbar__list {
+    width: 50%;
+  }
+  .contact_title {
+    font-size: 35px;
+  }
+}
+@media all and (max-width: 760px) {
+  .navbar__list {
+    display: none;
+  }
+  .navbar__input {
+    display: none;
+  }
+  .navbar_btn_burgeer {
+    display: block;
+  }
+  .navbar__logo {
+    width: 15%;
+  }
+}
+@media all and (max-width: 700px) {
+  .contact_title {
+    width: 20%;
+  }
+  .contact_title {
+    width: 50%;
+  }
+}
+@media (max-width: 666px) {
+  .contact_btn > a {
+    font-size: 13px;
+  }
+}
+@media (max-width: 650px) {
+  .contact__title {
+    font-size: 25px;
+  }
+  .contact__btn {
+    width: 23%;
+  }
+  .header__title_left {
+    font-size: 50px;
+    margin-top: 0;
+  }
+  .header__btn {
+    font-size: 15px;
+    height: 50px;
+  }
+  .footer__img {
+    height: 35px;
+  }
+  #vector_1 {
+    top: 152px;
+    left: -4px;
+  }
+  #vector_3 {
+    left: -18px;
+    bottom: 10px;
+  }
+  #vector_4 {
+    right: -57px;
+    bottom: 11px;
+  }
+}
+@media (max-width: 600px) {
+  .services__title_main {
+    font-size: 40px;
+  }
+  .portfolio__title {
+    font-size: 35px;
+    justify-content: center;
+  }
+  .portfolio_list {
+    justify-content: center;
+  }
+  .portfolio_item:nth-child(2),
+  .portfolio_item:nth-child(3) {
+    display: none;
+  }
+  .portfolio_item {
+    width: 60%;
+  }
+  .portfolio_icon {
+    display: none;
+  }
+  .portfolio_adaptiv_img {
+    display: block;
+  }
+  .contact_btn {
+    width: 30%;
+  }
+  .header__btn {
+    width: 50%;
+  }
+}
+@media (max-width: 550px) {
+  .servises_list {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .contact__btn {
+    width: 25%;
+  }
+  .servises_item {
+    width: 45%;
+  }
+  .header__title_left {
+    font-size: 40px;
+  }
+  .header__desc_left {
+    font-size: 16px;
+  }
+}
+@media (max-width: 500px) {
+  .header_btn {
+    width: 40%;
+  }
+  .navbar__logo {
+    width: 20%;
+  }
+}
+@media all and (max-width: 450px) {
+  .contact {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 50px;
+  }
+
+  .servises_title_main {
+    font-size: 35px;
+    width: 90%;
+  }
+  .servises_desc {
+    font-size: 16px;
+  }
+  .contact_title {
+    width: 90%;
+  }
+  .footer_info {
+    width: 80%;
+  }
+}
+@media all and (max-width: 400px) {
+  .burger_menu_input {
+    width: 30%;
+  }
+  .header__btn {
+    width: 50%;
+  }
+  #vector_1 {
+    width: 27px;
+    height: 27px;
+  }
+  #vector_2 {
+    width: 30px;
+    height: 30px;
+  }
+  #vector_3 {
+    width: 60px;
+    height: 20px;
+  }
+  #vector_4 {
+    width: 65px;
+    height: 75px;
+    right: 37px;
+    bottom: 11px;
+  }
+}
+@media all and (max-width: 350px) {
+  .header__block_left {
+    width: 80%;
+  }
+  .servises_item {
+    width: 60%;
+  }
+  .portfolio_item {
+    width: 80%;
+  }
+  .portfolio_adaptiv_img {
+    width: 80px;
+    height: 30px;
+  }
+}
+@media all and (max-width: 350px) {
+  .header__block_left {
+    width: 90%;
+  }
+  .footer_info {
+    width: 90%;
+  }
+}
